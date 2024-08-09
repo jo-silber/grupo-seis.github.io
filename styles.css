@@ -17,3 +17,31 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+footer {
+    background-color: #ffffff; 
+    color: #000000; 
+    font-family: Arial, sans-serif; 
+    font-size: 14px; 
+}
+
+.footer-content {
+    margin-bottom: 15px; 
+}
+
+.footer-content h3 {
+    font-size: 18px; 
+    margin-bottom: 10px;
+    font-weight: bold; 
+}
+
+.footer-content p {
+    margin: 5px 0; 
+}
+
+.footer-bottom {
+    border-top: 3px solid #333; 
+    padding-top: 10px; 
+    font-size: 12px; 
+    text-align: center; 
+}
