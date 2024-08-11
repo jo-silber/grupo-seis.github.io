@@ -3,9 +3,14 @@ body {
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
+    border-radius: 25px;
     height: 400px;
+    background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 20px;
+}
+.image:hover{
+    transform: scale(1.05);
 }
 
 .link-button {
